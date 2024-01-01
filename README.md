@@ -6,7 +6,7 @@
       🤔  REACT JS
       🫠  PHOTOSHOP
 - 🌱 I’m currently learning ReactJS
-- 📫 How to reach me Instagram!
+- 📫 Reach me Instagram!
 
 <!---
 ayussh-2/ayussh-2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
