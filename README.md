@@ -5,6 +5,7 @@
       😉 Tailwind CSS / BootStrap
       🤔  REACT JS
       🫠  PHOTOSHOP
+      📸  INTO PHOTOGRAPHY
 - 🌱 I’m currently learning ReactJS
 - 📫 Reach me on Instagram!
 
