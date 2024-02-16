@@ -19,7 +19,7 @@ Welcome to my coding world! I'm @ayussh-2, and I love crafting beautiful and fun
 
 -**PYTHON / C**: Some little more knowledge... 🐍👨‍💻
 
-### 😉 Fun Fact about Me!
+### 😉 Fun Facts about Me!
 - **Into Photography 📸**: Capturing moments that last a lifetime.
 - **Love Designing** websites more than **databases.** 🌐💻💖
 
