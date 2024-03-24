@@ -11,11 +11,11 @@ Welcome to my coding world! I'm @ayussh-2, and I love crafting beautiful and fun
 
 -**Tailwind CSS / Bootstrap**: Styling magic for modern, responsive designs. 🎨🔧
 
--**REACT JS**: Bringing user interfaces to life with reactive components. ⚛️🚀
+-**REACT JS / MONGODB / NODEJS / EXPRESSJS**: Bringing user interfaces to life with reactive components. ⚛️🚀
 
--**FIREBASE**: Empowering real-time applications with a powerful backend. 🔥🚀
+-**FIREBASE / APPWRITE**: Empowering real-time applications with a powerful backend. 🔥🚀
 
--**FIGMA / CANVA**: Transforming ideas into visually stunning designs. 🎨✏️
+-**FIGMA / PHOTOSHOP**: Transforming ideas into visually stunning designs. 🎨✏️
 
 -**PYTHON / C**: Some little more knowledge... 🐍👨‍💻
 
